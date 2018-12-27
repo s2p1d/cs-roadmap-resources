@@ -12,7 +12,7 @@
 
 - [x] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
 - [ ] [CS61A - Structure and Interpretation of Computer Programs (Scheme), 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
-- [ ] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
+- [x] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
