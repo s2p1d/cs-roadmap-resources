@@ -45,7 +45,6 @@
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
     - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
     - [ ] [10-725 - Convex Optimization, Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-    - [ ] [MOOC - Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
 
 - **Maths for ML (mostly books)**
     - [ ] [10-606 - Math Background for Machine Learning, Fall 2017 - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
@@ -58,6 +57,9 @@
     - [ ] [MOOC - Introduction to Logic - Stanford](https://www.coursera.org/learn/logic-introduction/)
     - [ ] [18.S096 - Topics in Mathematics with Application in Finance, Fall 2013 - MIT](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
     - [ ] [MOOC - Game Theory - Stanford](https://www.coursera.org/learn/game-theory-1)
+    - [ ] [MOOC - Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
+    - [ ] [Operations Research - SUNY Binghamton University](https://www.youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
+    - [ ] [Linear Programming, Fall 2016 - Penn State University](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 
 ### Data Structures and Algorithms
 
@@ -101,7 +103,7 @@
 - [ ] [14-740 - Fundamentals of Computer Networks, Fall 2017 - CMU](http://www.ini740.com/F17/index.html)
 - [ ] [CS144 - Introduction to Computer Networking - Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-### Programming Languages
+### Compilers
 
 - [ ] [CS143 - Compilers, Fall 2014 - Stanford](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - [ ] [CS164 - Programming Languages and Compilers, Spring 2012 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs164-spring2012-berkeley.html)
@@ -126,7 +128,6 @@
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
     - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
     - [ ] [10-701 - Introduction to Machine Learning (PhD), Spring 2011 - CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-    - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [10-702 - Statistical Machine Learning, Spring 2015 - CMU](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r)
     - [ ] [Information Theory, Pattern Recognition, and Neural Networks, 2012 - Cambridge](http://www.inference.org.uk/itprnn/)
     - [ ] [CS189/281A - Introduction to Machine Learning, Spring 2016 - UC Berkeley](https://people.eecs.berkeley.edu/~jrs/189s16/)
@@ -134,8 +135,11 @@
     - [ ] [STA4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
     - [ ] [18.409 - Algorithmic Aspects of Machine Learning, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
     - [ ] [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
+    - [ ] [CPSC530 - Undergraduate Machine Learning, 2012 - University of British Columbia](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
+    - [ ] [CPSC540 - Graduate Machine Learning, 2013 - University of British Columbia](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 - **Deep Learning**
+    - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [CSC321 - Neural Networks for Machine Learning - University of Toronto](https://www.coursera.org/learn/neural-networks)
     - [ ] [CS230 - Deep Learning - Stanford](https://www.coursera.org/specializations/deep-learning)
     - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
@@ -144,6 +148,8 @@
 - **Reinforcement Learning**
     - [ ] [CS294 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
     - [ ] [COMPM050 - Reinforcement Learning, 2015 - UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+    - [ ] [CS885 - Reinforcement Learning, Spring 2018 - University of Waterloo](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/index.html)
+    - [ ] [Advanced Deep Learning & Reinforcement Learning - DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 - **Probabilistic Graphical Models**
     - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
@@ -154,6 +160,7 @@
     - [ ] [MOOC - Data Mining - University of Illinois](https://www.coursera.org/specializations/data-mining)
     - [ ] [CS224W - Social and Information Network Analysis, Fall 2017 - Stanford](http://snap.stanford.edu/class/cs224w-videos-2017/)
     - [ ] [MOOC - Recommender Systems - University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
+    - [ ] [Information Retrival, Fall 2017 - University of Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718)
 
 ### Other Topics
 
