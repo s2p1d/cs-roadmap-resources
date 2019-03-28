@@ -63,7 +63,7 @@
 
 ### Data Structures and Algorithms
 
-- [ ] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
+- [x] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
 - [ ] [6.046J - Design and Analysis of Algorithms, Spring 2015 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
@@ -123,7 +123,7 @@
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-    - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
+    - [x] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
     - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
     - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
