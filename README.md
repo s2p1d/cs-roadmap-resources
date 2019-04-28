@@ -1,4 +1,4 @@
-## Computer Science Roadmap
+## Computer Science Roadmap (AI Track)
 
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 
@@ -45,6 +45,7 @@
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)
     - [ ] [EE364B - Convex Optimization II - Stanford](https://see.stanford.edu/Course/EE364B)
     - [ ] [10-725 - Convex Optimization, Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
+    - [ ] [10-801 - Advanced Optimization and Randomized Methods, Spring 2014 - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html)
 
 - **Maths for ML (mostly books)**
     - [ ] [10-606 - Math Background for Machine Learning, Fall 2017 - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA)
@@ -79,17 +80,21 @@
 - [ ] [CS152 - Computer Architecture and Engineering, Spring 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [ ] [18-447 - Computer Architecture, Spring 2015 - CMU](http://www.archive.ece.cmu.edu/~ece447/s15/doku.php?id=schedule)
 - [ ] [15-418 - Parallel Computer Architecture and Programming, Spring 2016 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsO4Atvrp86c-4La9Mq3kMQZ)
+- [ ] [CS267 - Applications of Parallel Computers, Spring 2016 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/)
 
 ### System Programming
 
 - [ ] [15-213 - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
 - [ ] [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
+- [ ] [CS436 - Distributed Computer Systems, Winter 2012 - University of Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
 ### Software Engineering
 
 - [ ] [CS169 - Software Engineering, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
 - [ ] [CS6310 - Software Architecture & Design - Georgia Tch](https://eu.udacity.com/course/software-architecture-design--ud821)
+- [ ] [CS5150 - Software Engineering, Fall 2014 - Cornell](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
+- [ ] [CS164 - Software Engineering, Spring 2014 - Harvard](http://cs164.tv/2014/spring/)
 
 ### Database Systems
 
@@ -139,33 +144,32 @@
     - [ ] [CPSC540 - Graduate Machine Learning, 2013 - University of British Columbia](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
 
 - **Deep Learning**
+    - [ ] [CS230 - Deep Learning, Fall 2018 - Stanford](http://cs230.stanford.edu/)
+    - [ ] [6.S191 - Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
     - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [CSC321 - Neural Networks for Machine Learning - University of Toronto](https://www.coursera.org/learn/neural-networks)
-    - [ ] [CS230 - Deep Learning - Stanford](https://www.coursera.org/specializations/deep-learning)
+    - [ ] [MOOC - Deep Learning Specialisation- deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
     - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
     - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2017 - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+    - [ ] [Deep Learning for Natural Language Processing - Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
+    - [ ] [6.S094 - Deep Learning for Self-Driving Cars - MIT](https://selfdrivingcars.mit.edu/)
+    - [ ] [CS294-129 - Designing, Visualizing and Understanding Deep Neural Networks, Fall 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
 
 - **Reinforcement Learning**
     - [ ] [CS294 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
     - [ ] [COMPM050 - Reinforcement Learning, 2015 - UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
     - [ ] [CS885 - Reinforcement Learning, Spring 2018 - University of Waterloo](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/index.html)
     - [ ] [Advanced Deep Learning & Reinforcement Learning - DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+    - [ ] [CS294-112 - Deep Reinforcement Learning, Spring 2017 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 
 - **Probabilistic Graphical Models**
     - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
     - [ ] [CS228 - Probabilistic Graphical Models - Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
 
-- **Data Mining**
+- **Miscs**
     - [ ] [CS246 - Mining of Massive Datasets - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
     - [ ] [MOOC - Data Mining - University of Illinois](https://www.coursera.org/specializations/data-mining)
     - [ ] [CS224W - Social and Information Network Analysis, Fall 2017 - Stanford](http://snap.stanford.edu/class/cs224w-videos-2017/)
     - [ ] [MOOC - Recommender Systems - University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
     - [ ] [Information Retrival, Fall 2017 - University of Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718)
-
-### Other Topics
-
-- **Data Engineering**
-
-    - [ ] [MOOC - Big Data for Data Engineering - Yandex](https://www.coursera.org/specializations/big-data-engineering)
-    - [ ] [MOOC - Cloud Computing - University of Illinois](https://www.coursera.org/specializations/cloud-computing)
-    - [ ] [MOOC - Big Data - UC San Diego](https://www.coursera.org/specializations/big-data)
+    - [ ] [Information Retrieval and Web Search Engines, Winter 2015 - Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
