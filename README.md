@@ -58,13 +58,13 @@
     - [ ] [MOOC - Introduction to Logic - Stanford](https://www.coursera.org/learn/logic-introduction/)
     - [ ] [18.S096 - Topics in Mathematics with Application in Finance, Fall 2013 - MIT](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
     - [ ] [MOOC - Game Theory - Stanford](https://www.coursera.org/learn/game-theory-1)
-    - [ ] [MOOC - Discrete Optimization](https://www.coursera.org/learn/discrete-optimization)
+    - [x] [MOOC - Discrete Optimization - University of Melbourne](https://www.coursera.org/learn/discrete-optimization)
     - [ ] [Operations Research - SUNY Binghamton University](https://www.youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
     - [ ] [Linear Programming, Fall 2016 - Penn State University](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 
 ### Data Structures and Algorithms
 
-- [ ] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
+- [x] [CS61B - Data Structures, Spring 2019 - UC Berkeley](https://sp19.datastructur.es/)
 - [ ] [6.006 - Introduction to Algorithms, Fall 2011 - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [ ] [COS226 - Algorithms - Princeton](https://algs4.cs.princeton.edu/home/)
 - [ ] [6.046J - Design and Analysis of Algorithms, Spring 2015 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
@@ -128,7 +128,7 @@
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-    - [ ] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
+    - [x] [CS229 - Machine Learning - Stanford](https://see.stanford.edu/course/cs229)
     - [ ] [CS155 - Machine Learning & Data Mining, Winter 2017 - Caltech](http://www.yisongyue.com/courses/cs155/2017_winter/)
     - [ ] [CS156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
     - [ ] [10-601 - Introduction to Machine Learning (MS), Spring 2015 - CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
