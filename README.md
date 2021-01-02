@@ -18,6 +18,7 @@
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
 - [ ] [CS212 - Design of Computer Programs - Peter Norvig](https://eu.udacity.com/course/design-of-computer-programs--cs212)
 - [ ] [CS210 - Functional Programming in Scala - EPFL](https://www.coursera.org/specializations/scala)
+- [ ] [6.S095 - Programming for the Puzzled, Spring 2018 - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA)
 
 ### Maths
 
@@ -29,6 +30,7 @@
 - **Linear Algebra**
     - [x] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
+    - [ ] [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 - **Probability and Statistics**
     - [x] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
@@ -73,6 +75,7 @@
 - [ ] [6.851 - Advanced Data Structures, Spring 2012 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
 - [ ] [CS224 - Advanced Algorithms, Fall 2014 - Harvard](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 - [ ] [CS229R - Algorithms for Big Data, Fall 2015 - Harvard](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
+- [ ] [CS170 - Efficient Algorithms and Intractable Problems, Fall 2020 - UC Berkeley](https://cs170.org/)
 
 ### Computer Architecture
 
@@ -86,13 +89,13 @@
 
 - [ ] [15-213 - Introduction to Computer Systems, Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 - [ ] [CS162 - Operating Systems and System Programming, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-spring2015-berkeley.html)
-- [ ] [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV)
+- [ ] [6.824 - Distributed Systems, Spring 2020 - MIT](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - [ ] [CS436 - Distributed Computer Systems, Winter 2012 - University of Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 
 ### Software Engineering
 
 - [ ] [CS169 - Software Engineering, Spring 2015 - UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-spring2015-berkeley.html)
-- [ ] [CS6310 - Software Architecture & Design - Georgia Tch](https://eu.udacity.com/course/software-architecture-design--ud821)
+- [ ] [CS6310 - Software Architecture & Design - Georgia Tech](https://eu.udacity.com/course/software-architecture-design--ud821)
 - [ ] [CS5150 - Software Engineering, Fall 2014 - Cornell](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
 - [ ] [CS164 - Software Engineering, Spring 2014 - Harvard](http://cs164.tv/2014/spring/)
 
@@ -125,6 +128,7 @@
     - [ ] [CS188 - Introduction to Artificial Intelligence, Fall 2018 - UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)
     - [ ] [6.034 - Artificial Intelligence, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
     - [ ] [15-780 - Graduate Artificial Intelligence, Spring 2017 - CMU](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPfw9slkk0BfwuiNEYVnsd_)
+    - [ ] [CS221 - Artificial Intelligence: Principles and Techniques, Fall 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
 - **Machine Learning**
     - [ ] [STATS216 - Statistical Learning, Winter 2016 - Stanford](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
@@ -149,18 +153,22 @@
     - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [CSC321 - Neural Networks for Machine Learning - University of Toronto](https://www.coursera.org/learn/neural-networks)
     - [ ] [MOOC - Deep Learning Specialisation- deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
-    - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
-    - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2017 - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+    - [x] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
+    - [x] [CS224N - Natural Language Processing with Deep Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    - [ ] [CS224U - Natural Language Understanding, Spring 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
     - [ ] [Deep Learning for Natural Language Processing - Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
     - [ ] [6.S094 - Deep Learning for Self-Driving Cars - MIT](https://selfdrivingcars.mit.edu/)
     - [ ] [CS294-129 - Designing, Visualizing and Understanding Deep Neural Networks, Fall 2016 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+    - [ ] [CS330 - Deep Multi-Task Learning and Meta Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+    - [ ] [CS294-158 - Deep Unsupervised Learning, Spring 2020 - UC Berkeley](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 - **Reinforcement Learning**
     - [ ] [CS294 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
     - [ ] [COMPM050 - Reinforcement Learning, 2015 - UCL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
     - [ ] [CS885 - Reinforcement Learning, Spring 2018 - University of Waterloo](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/index.html)
     - [ ] [Advanced Deep Learning & Reinforcement Learning - DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-    - [ ] [CS294-112 - Deep Reinforcement Learning, Spring 2017 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
+    - [ ] [CS294-112 - Deep Reinforcement Learning, Fall 2018 - UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+    - [ ] [CS234 - Reinforcement Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 - **Probabilistic Graphical Models**
     - [ ] [10-708 - Probabilistic Graphical Models, Spring 2014 - CMU](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
@@ -173,3 +181,5 @@
     - [ ] [MOOC - Recommender Systems - University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
     - [ ] [Information Retrival, Fall 2017 - University of Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718)
     - [ ] [Information Retrieval and Web Search Engines, Winter 2015 - Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
+    - [ ] [CS224W - Machine Learning with Graphs, Fall 2019 - Stanford](https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE)
+    - [ ] [CS520 - Knowledge Graphs Seminar, Spring 2020 - Stanford](https://www.youtube.com/playlist?list=PLDhh0lALedc7LC_5wpi5gDnPRnu1GSyRG)
