@@ -177,7 +177,6 @@
 - **Miscs**
     - [ ] [CS246 - Mining of Massive Datasets - Stanford](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
     - [ ] [MOOC - Data Mining - University of Illinois](https://www.coursera.org/specializations/data-mining)
-    - [ ] [CS224W - Social and Information Network Analysis, Fall 2017 - Stanford](http://snap.stanford.edu/class/cs224w-videos-2017/)
     - [ ] [MOOC - Recommender Systems - University of Minnesota](https://www.coursera.org/specializations/recommender-systems)
     - [ ] [Information Retrival, Fall 2017 - University of Freiburg](https://ad-wiki.informatik.uni-freiburg.de/teaching/InformationRetrievalWS1718)
     - [ ] [Information Retrieval and Web Search Engines, Winter 2015 - Technische Universität Braunschweig](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
