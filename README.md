@@ -4,15 +4,15 @@
 
 ### Intro to CS
 
-- [x] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
-- [x] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-- [x] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
+- [ ] [6.0001 - Introduction to Computer Science and Programming in Python, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+- [ ] [6.0002 - Introduction to Computational Thinking and Data Science, Fall 2016 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Programming
 
-- [x] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
+- [ ] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
 - [ ] [CS61A - Structure and Interpretation of Computer Programs (Scheme), 2010 - UC Berkeley](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
-- [x] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
+- [ ] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
@@ -25,7 +25,7 @@
 - **Calculus**
     - [x] [18.01 - Single Variable Calculus, Fall 2006 - MIT](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
     - [x] [18.02 - Multivariable Calculus, Fall 2007 - MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-    - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
+    - [x] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 - **Linear Algebra**
     - [x] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -33,7 +33,7 @@
     - [ ] [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 - **Probability and Statistics**
-    - [x] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+    - [ ] [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2013 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
     - [ ] [STAT110 - Probability - Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
     - [ ] [18.650 - Statistics for Applications, Fall 2016 - MIT](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
     - [ ] [36-705 - Intermediate Statistics, Fall 2016 - CMU](http://www.stat.cmu.edu/~larry/=stat705/)
@@ -153,8 +153,8 @@
     - [ ] [Machine Learning, Fall 2014 - University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [CSC321 - Neural Networks for Machine Learning - University of Toronto](https://www.coursera.org/learn/neural-networks)
     - [ ] [MOOC - Deep Learning Specialisation- deeplearning.ai](https://www.coursera.org/specializations/deep-learning)
-    - [x] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
-    - [x] [CS224N - Natural Language Processing with Deep Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    - [ ] [CS231N - Convolutional Neural Networks for Visual Recognition, Spring 2017 - Stanford](http://cs231n.stanford.edu/2017/)
+    - [ ] [CS224N - Natural Language Processing with Deep Learning, Winter 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
     - [ ] [CS224U - Natural Language Understanding, Spring 2019 - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
     - [ ] [Deep Learning for Natural Language Processing - Oxford](https://github.com/oxford-cs-deepnlp-2017/lectures)
     - [ ] [6.S094 - Deep Learning for Self-Driving Cars - MIT](https://selfdrivingcars.mit.edu/)
